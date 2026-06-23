@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: "AgentLoop: Loop Engineering Design Framework for AI Agents"
+message: "If you use this framework, please cite it."
+type: software
+authors:
+  - given-names: "chuckT9"
+    website: "https://github.com/chuckT9"
+repository-code: "https://github.com/chuckT9/Agentloop"
+license: MIT
+keywords:
+  - loop engineering
+  - AI agent loop
+  - agent workflow
+  - autonomous AI
+  - AI task automation
+  - prompt engineering
+  - context engineering
+  - AI loop design
+  - self-correcting AI
+  - no-code AI
+  - beginner-friendly
+  - students
+  - researchers
+  - ChatGPT workflow
+  - Claude workflow
+  - Cursor workflow
+  - AI agent framework
+  - verification loop
+  - copy-paste AI
